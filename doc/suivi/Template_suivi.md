@@ -1,33 +1,33 @@
-# Point Hebdomadaire - Projet Ninja
+# Point Hebdomadaire - Projet QR Code
 
-Date : Jeudi 12 septembre 2024
-Semaine n° 2
+Date : Jeudi 04 Septembre
+Semaine n° 1
 
 ## Tâches réalisées cette semaine
 
-### Nom Prénom élève 1
+### Naceur Paul-Armand
 
 - [x] Création de la classe JoueurDAO et des méthodes
 - [x] Tests unitaires JoueurDAO
 - [x] JoueurService : ajout méthode pour supprimer un joueur
 
-### Nom Prénom élève 2
+### Guidi Théo
 
 - [x] Mise en forme du diagramme de classe avec PlantUML
 - [x] Rapport : présentation des classes WIP
 
 
-### Nom Prénom élève 3
+### Leriche Enzo
 
 - ras
 
-### Nom Prénom élève 4
+### Andrée Marlène YAVO
 
 - [x] Modification de la base de données : modification de la table *joueur*, création table *arbitre*
 - [x] Refactor : utilisation du package *tabulate* pour avoir de jolis tableaux
 
 
-### Nom Prénom élève 5
+### Maxine 
 
 - [x] Codage de la fonctionnalité *Créer un tournoi* (Vue + Services + Dao)
 - [x] Relecture dossier analyse
